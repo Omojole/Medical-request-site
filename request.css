@@ -1,0 +1,23 @@
+.text-light{
+    background-color:#010113e8;
+}
+.body{
+    background-color: #dfd7d7;
+}
+.d-flex img{
+    width: 60px;
+}
+.color{
+    background-color: #f3b6b6;
+    border-radius: 17px;
+}
+.last{
+background-color: aqua;
+color:#008cff;
+}
+.bottom td{
+    border-bottom: 0;
+}
+#last{
+    margin-top: 120px;
+ }
